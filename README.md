@@ -4,7 +4,7 @@ A late-game transport helicopter for moving people and supplies across ICARUS.
 
 **Requires Dangerous Horizons. Beta release, provided as-is.**
 
-[Download Helicopter Mount 0.4.2](https://github.com/VariantCreator/Helicopter-Mount/releases/download/v0.4.2/Helicopter-Mount-0.4.2.zip) · [All releases](https://github.com/VariantCreator/Helicopter-Mount/releases) · [Nexus Mods](https://www.nexusmods.com/icarus/mods/394)
+[Download Helicopter Mount 0.4.3](https://github.com/VariantCreator/Helicopter-Mount/releases/download/v0.4.3/Helicopter-Mount-0.4.3.zip) · [All releases](https://github.com/VariantCreator/Helicopter-Mount/releases) · [Nexus Mods](https://www.nexusmods.com/icarus/mods/394)
 
 ## 📦 Installation
 
@@ -18,10 +18,12 @@ Unlock the **Helicopter** in Tier 5 after the Polymerizer and craft it at the Ma
 
 ## 🛠️ This release
 
-Kept fuel during orbital transfers, made cargo accessible at the fuselage and corrected wreck cleanup.
+Added cockpit views, flight XP and more talents. Updated rotor audio, banking, braking and passenger dismounts near the ground.
 
 ## Credits
 
 Cabin fabric uses *Poly Wool Herringbone* by Rico Cilliers and colormass (CC0). [Poly Haven](https://polyhaven.com/a/poly_wool_herringbone)
+
+Helicopter recordings by thegreatbelow and joly1 (CC0). [thegreatbelow on Freesound](https://freesound.org/people/thegreatbelow/sounds/548340/) · [joly1 on Freesound](https://freesound.org/people/joly1/sounds/81454/)
 
 Unofficial community mod. Original ICARUS assets belong to their respective rights holders. [RocketWerkz](https://store.steampowered.com/developer/rocketwerkz)
