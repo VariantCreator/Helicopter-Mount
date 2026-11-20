@@ -4,7 +4,7 @@ Scout in a single-seat Gyrocopter or carry a crew and their supplies across ICAR
 
 **Requires Dangerous Horizons. Beta release, provided as-is.**
 
-[Download Helicopter Mount 0.4.4](https://github.com/VariantCreator/Helicopter-Mount/releases/download/v0.4.4/Helicopter-Mount-0.4.4.zip) · [All releases](https://github.com/VariantCreator/Helicopter-Mount/releases) · [Nexus Mods](https://www.nexusmods.com/icarus/mods/394)
+[Download Helicopter Mount 0.4.4 — Inventory Hotfix](https://github.com/VariantCreator/Helicopter-Mount/releases/download/v0.4.4-inventory-hotfix/Helicopter-Mount-0.4.4-inventory-hotfix.zip) · [All releases](https://github.com/VariantCreator/Helicopter-Mount/releases) · [Nexus Mods](https://www.nexusmods.com/icarus/mods/394)
 
 ## 📦 Installation
 
@@ -20,7 +20,7 @@ Unlock the **Gyrocopter** in Tier 3 after the Biofuel Can and craft it at the Ma
 
 ## 🛠️ This release
 
-Added the Tier 3 single-seat Gyrocopter, its Biofuel engine and talent tree. Added recovery cupboards for ordinary cargo when the mod is removed.
+Fixed cargo becoming unavailable after flying away from the area where the aircraft was placed. This standalone build includes both aircraft.
 
 ## Credits
 
