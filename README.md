@@ -4,7 +4,7 @@ A late-game transport helicopter for moving people and supplies across ICARUS.
 
 **Requires Dangerous Horizons. Beta release, provided as-is.**
 
-[Download Helicopter Mount 0.4.1](https://github.com/VariantCreator/Helicopter-Mount/releases/download/v0.4.1/Helicopter-Mount-0.4.1.zip) · [All releases](https://github.com/VariantCreator/Helicopter-Mount/releases) · [Nexus Mods](https://www.nexusmods.com/icarus/mods/394)
+[Download Helicopter Mount 0.4.2](https://github.com/VariantCreator/Helicopter-Mount/releases/download/v0.4.2/Helicopter-Mount-0.4.2.zip) · [All releases](https://github.com/VariantCreator/Helicopter-Mount/releases) · [Nexus Mods](https://www.nexusmods.com/icarus/mods/394)
 
 ## 📦 Installation
 
@@ -18,7 +18,7 @@ Unlock the **Helicopter** in Tier 5 after the Polymerizer and craft it at the Ma
 
 ## 🛠️ This release
 
-Initial release of the Tier 5 Helicopter. Carry passengers and cargo, hover in place, and boost using Refined Oil.
+Kept fuel during orbital transfers, made cargo accessible at the fuselage and corrected wreck cleanup.
 
 ## Credits
 
