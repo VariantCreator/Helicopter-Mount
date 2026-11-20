@@ -1,10 +1,10 @@
 # Helicopter Mount
 
-A late-game transport helicopter for moving people and supplies across ICARUS.
+Scout in a single-seat Gyrocopter or carry a crew and their supplies across ICARUS in a transport helicopter.
 
 **Requires Dangerous Horizons. Beta release, provided as-is.**
 
-[Download Helicopter Mount 0.4.3](https://github.com/VariantCreator/Helicopter-Mount/releases/download/v0.4.3/Helicopter-Mount-0.4.3.zip) · [All releases](https://github.com/VariantCreator/Helicopter-Mount/releases) · [Nexus Mods](https://www.nexusmods.com/icarus/mods/394)
+[Download Helicopter Mount 0.4.4](https://github.com/VariantCreator/Helicopter-Mount/releases/download/v0.4.4/Helicopter-Mount-0.4.4.zip) · [All releases](https://github.com/VariantCreator/Helicopter-Mount/releases) · [Nexus Mods](https://www.nexusmods.com/icarus/mods/394)
 
 ## 📦 Installation
 
@@ -16,9 +16,11 @@ A late-game transport helicopter for moving people and supplies across ICARUS.
 
 Unlock the **Helicopter** in Tier 5 after the Polymerizer and craft it at the Manufacturer. It runs on Refined Oil and starts with one pilot seat, one passenger seat and 250 kg of cargo capacity. Two optional seats bring it up to four people and 750 kg.
 
+Unlock the **Gyrocopter** in Tier 3 after the Biofuel Can and craft it at the Machining Bench. It runs on Biofuel, carries one pilot and starts with six slots and 80 kg of cargo capacity. Give it a short takeoff run on level ground and keep forward speed in the air.
+
 ## 🛠️ This release
 
-Added cockpit views, flight XP and more talents. Updated rotor audio, banking, braking and passenger dismounts near the ground.
+Added the Tier 3 single-seat Gyrocopter, its Biofuel engine and talent tree. Added recovery cupboards for ordinary cargo when the mod is removed.
 
 ## Credits
 
